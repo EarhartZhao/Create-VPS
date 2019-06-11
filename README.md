@@ -4,16 +4,16 @@
 >我这里选择了[vultr](https://www.vultr.com/)，你也可以用我的[邀请链接](https://www.vultr.com/?ref=7615364)。
 
 ## 选择服务器类型
--![avatar](/img/a.png)
--![avatar](/img/b.png)
--![avatar](/img/c.png)
--我这里选择的是澳大利亚服务器，Ubuntu系统，价格根据你的情况选择，选择后点击'Deploy Now'创建。
+![avatar](/img/a.png)
+![avatar](/img/b.png)
+![avatar](/img/c.png)
+>我这里选择的是澳大利亚服务器，Ubuntu系统，价格根据你的情况选择，选择后点击'Deploy Now'创建。
 
 ##准备工作
->![avatar](/img/d.png)
+![avatar](/img/d.png)
 >等待一分钟左右，服务器会创建完成，然后先测试生成的IP是否可用。
 >复制IP，windows系统 Win+R 打开运行，输入cmd打开命令行 输入ping '你的IP'
->![avatar](/img/e.png)
+![avatar](/img/e.png)
 >这个是可用的状态，如果显示请求超时，就是IP被封了，这时先不要销毁当前服务器，直接创建三至五个(这样可以避免IP重复，vultr是按小时收费，所以创建一个新的服务器花费很少)，或者换一个地区，然后再测试IP是否被封。
 
 ##安装shadowsocks
