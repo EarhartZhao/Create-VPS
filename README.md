@@ -26,7 +26,7 @@
 - ![avatar](/img/h.png)
 - 输入ssserver，查看所有设置选项
 - ![avatar](/img/i.png)
-- 输入 ssserver -p 3000 -k 123456 -start
+- 输入 ssserver -p 3000 -k 123456 -d -start
 - ![avatar](/img/j.png)
 - 现在，你已经成功创建一个vps了。当前vps的IP:139.180.164.98 端口(port):3000 密码:123456。
 ***
