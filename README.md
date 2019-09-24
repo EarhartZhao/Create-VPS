@@ -2,6 +2,7 @@
 
 ## 选择购买一个vps服务器
 - 我这里选择了[vultr](https://www.vultr.com/)，你也可以用我的[邀请链接](https://www.vultr.com/?ref=7615364)。
+- 如果构建支持ipv6的vps服务器，可以参考[这篇文章](https://github.com/EarhartZhao/create-VPS-IPV6)。
 ***
 
 ## 选择服务器类型
