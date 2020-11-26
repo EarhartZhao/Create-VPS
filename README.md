@@ -1,7 +1,7 @@
 # 简单创建一个自己的vps服务
 
 ## 选择购买一个vps服务器
-- 我这里选择了[vultr](https://www.vultr.com/)，你也可以用我的[邀请链接](https://www.vultr.com/?ref=7615364)。
+- 我这里选择了[vultr](https://www.vultr.com/)，你也可以用我的[邀请链接](https://www.vultr.com/?ref=8735155)。
 - 如果构建支持ipv6的vps服务器，可以参考[这篇文章](https://github.com/EarhartZhao/create-VPS-IPV6)。
 ***
 
@@ -43,4 +43,4 @@
 
 ## 最后
 - 不用的vps一定要销毁，不要暂停，这样也会收费。
-- 你也可以用我的[邀请链接](https://www.vultr.com/?ref=7615364)，以便我能获得一些奖励。
+- 你也可以用我的[邀请链接](https://www.vultr.com/?ref=8735155)，以便我能获得一些奖励。
